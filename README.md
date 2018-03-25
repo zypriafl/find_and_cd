@@ -8,7 +8,7 @@ copy the file scd to ~/bin/
 # Usage
 Use it as follow:
 ```
-scd MyFolder
-scd MyFol*
-scd *Folder*
+fcd MyFolder
+fcd MyFol*
+fcd *Folder*
 ```
